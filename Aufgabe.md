@@ -100,7 +100,7 @@ Eine Buchung gehört immer zu:
 
 Ein Fahrzeug kann im Laufe der Zeit viele Buchungen haben.
 
-##Bewertungen
+## Bewertungen
 
 Nach einer Fahrt kann ein Kunde eine Bewertung für das Fahrzeug abgeben.
 
